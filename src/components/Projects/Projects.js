@@ -45,7 +45,7 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title="Kaggle Automation"
               description="Scripts to automate tasks on the Kaggle platform."
               ghLink="https://github.com/zazauserr/kaggle_automation"             
             />
