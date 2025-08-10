@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -28,7 +27,8 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
-              </a>  
+              </a>
+            </li>
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/bohdan-kudelia-27b765350"
@@ -47,3 +47,4 @@ function Footer() {
 }
 
 export default Footer;
+
